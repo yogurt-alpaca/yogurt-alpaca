@@ -1,10 +1,8 @@
 ![](https://raw.githubusercontent.com/raining976/raining976/output/github-contribution-grid-snake.svg)
 
+# Hi~ 👋 **My** ![Visitor Count](https://profile-counter.glitch.me/yogurt-alpaca/count.svg) **Visitors**
 
-**My** ![Visitor Count](https://profile-counter.glitch.me/yogurt-alpaca/count.svg) **Visitors**
-
-# I'm Raining 👋
-
+- I'm Raining 🌧️
 - 📫 My Email: raining976@gmail.com
 - 💻 My Blog : https://www.raining976.top
 
