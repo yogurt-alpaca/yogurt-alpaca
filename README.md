@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/raining976/raining976/output/github-contribution-grid-snake.svg)
 
 # Hi~ 👋 **My** ![Visitor Count](https://profile-counter.glitch.me/yogurt-alpaca/count.svg) **Visitors**
 
