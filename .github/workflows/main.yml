@@ -11,14 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           # 你的 GitHub 的名称
-          github_user_name: raining976
-          # 生成的 .gif 图存储的位置
-          gif_out_path: dist/github-snake.gif
-          # 生成的 .gif 图存储的位置
-          svg_out_path: dist/github-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+           outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
