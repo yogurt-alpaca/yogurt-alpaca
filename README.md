@@ -1,4 +1,8 @@
-![](https://github.com/WJCHumble/WJCHumble/blob/output/github-snake.gif?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 # Hi~ 👋 **My** ![Visitor Count](https://profile-counter.glitch.me/yogurt-alpaca/count.svg) **Visitors**
